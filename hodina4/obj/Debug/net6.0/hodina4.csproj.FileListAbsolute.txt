@@ -1,0 +1,14 @@
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\bin\Debug\net6.0\hodina4.exe
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\bin\Debug\net6.0\hodina4.deps.json
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\bin\Debug\net6.0\hodina4.runtimeconfig.json
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\bin\Debug\net6.0\hodina4.dll
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\bin\Debug\net6.0\hodina4.pdb
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\hodina4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\hodina4.AssemblyInfoInputs.cache
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\hodina4.AssemblyInfo.cs
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\hodina4.csproj.CoreCompileInputs.cache
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\hodina4.dll
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\refint\hodina4.dll
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\hodina4.pdb
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\hodina4.genruntimeconfig.cache
+C:\Users\jan.kobrle\OneDrive - Gymnázium, Praha 9, Špitálská 2\hodina4\obj\Debug\net6.0\ref\hodina4.dll
